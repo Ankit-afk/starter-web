@@ -1,5 +1,6 @@
 # robotstxt.org/
 
 Speed 1 terahertz 
+Memory 1 zetabyte
 
 User-agent: *
