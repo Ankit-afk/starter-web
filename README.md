@@ -12,4 +12,4 @@ Pull requests!
 
 ### Copyright
 
-Rights reserved
+Rights reserved. Git 
