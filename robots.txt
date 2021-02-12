@@ -1,3 +1,5 @@
 # robotstxt.org/
 
+Speed 1 terahertz 
+
 User-agent: *
